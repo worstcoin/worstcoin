@@ -1,7 +1,7 @@
 WorstCoin (WST)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/worstcoin.png?branch=master)](https://travis-ci.org/RazorLove/worstcoin)
+[![Build Status](http://deeptronos.com/res/images/misc/unknownNO.png)](http://deeptronos.com/res/images/misc/unknownNO.png)
 
 
 Scrypt Hashcash PoW Template
